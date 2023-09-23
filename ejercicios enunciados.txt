@@ -1,0 +1,127 @@
+Ejercicio 1: Declarar una variable de tipo entero y asignarle el valor 10
+Kotlin
+
+
+
+Ejercicio 2: Declarar una constante de tipo entero y asignarle el valor 20
+Kotlin
+
+
+
+
+Ejercicio 3: Declarar dos variables de tipo entero y compararlas para ver si son iguales
+Kotlin
+
+
+
+
+Ejercicio 4: Declarar dos variables de tipo entero y compararlas para ver si el primero es mayor que el segundo
+Kotlin
+
+
+
+
+
+Ejercicio 5: Declarar dos variables de tipo entero y compararlas para ver si el primero es menor que el segundo
+Kotlin
+
+
+
+
+Ejercicio 6: Declarar una variable de tipo entero y usar un bucle for para imprimir los números del 1 al 10
+Kotlin
+
+
+
+
+
+Ejercicio 7: Declarar una variable de tipo entero y usar un bucle while para imprimir los números del 10 al 1
+Kotlin
+
+
+
+
+
+Ejercicio 8: Declarar una variable de tipo entero y usar un bucle do-while para imprimir los números del 1 al 10
+Kotlin
+
+
+
+Ejercicio 9: Declarar una variable de tipo cadena y usar un bucle for para imprimir cada carácter de la cadena
+Kotlin
+
+
+
+
+
+
+Ejercicio 10: Declarar una variable de tipo entero y usar un bucle for para imprimir los números del 1 al 10, pero cada dos números
+Kotlin
+
+
+
+
+
+
+Ejercicio 11: Declarar una variable de tipo entero y usar un bucle for para imprimir los números del 1 al 100, pero cada 10 números.
+Kotlin
+
+
+
+
+
+Ejercicio 12: Declarar dos variables de tipo entero y usar un bucle while para imprimir los números del menor al mayor.
+Kotlin
+
+
+
+
+
+Ejercicio 13: Declarar dos variables de tipo entero y usar un bucle do-while para imprimir los números del mayor al menor.
+Kotlin
+
+
+
+Ejercicio 14: Declarar una variable de tipo cadena y usar un bucle for para imprimir la cadena en orden inverso.
+Kotlin
+
+
+
+
+Ejercicio 15: Declarar una variable de tipo entero y usar un bucle for para imprimir los números del 1 al 10, pero con un salto de línea después de cada número.
+Kotlin
+
+
+
+
+Ejercicio 16: Declarar una variable de tipo entero y usar un bucle for para imprimir los números del 1 al 10, pero con un asterisco después de cada número par.
+Kotlin
+
+
+
+
+
+Ejercicio 17: Declarar una variable de tipo cadena y usar un bucle for para imprimir cada carácter de la cadena, pero solo las vocales.
+Kotlin
+
+
+
+
+
+Ejercicio 18: Declarar una variable de tipo entero y usar un bucle for para imprimir los números del 1 al 100, pero solo los números primos.
+Kotlin
+
+
+
+
+
+Ejercicio 19: Declarar una variable de tipo entero y usar un bucle for para imprimir los números del 1 al 100, pero solo los números que son divisibles por 3 o por 5.
+Kotlin
+
+
+
+
+Ejercicio 20: Declarar una variable de tipo cadena y usar un bucle for para imprimir la cadena en orden aleatorio.
+Kotlin
+
+
