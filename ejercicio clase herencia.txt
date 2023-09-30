@@ -1,0 +1,5 @@
+Ejercicio 21: Crea una clase Persona y una clase Alumno que herede de la anterior clase, con los atributos
+nombre, apellidos, fecha de nacimiento y nota, incluyendo metodos para ver la informacion y añadir nota.
+
+
+
